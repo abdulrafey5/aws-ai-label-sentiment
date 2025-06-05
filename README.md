@@ -1,6 +1,4 @@
-## 📘 `README.md`
-
-```markdown
+## Intro
 # 🧠 AWS AI Demo Project — Image Label Detection & Sentiment Analysis
 
 This project demonstrates how to use **Amazon Rekognition** and **Amazon Comprehend** to perform intelligent analysis on both images and text using Python and AWS SDK (`boto3`).
@@ -94,11 +92,3 @@ Sentiment Analysis:
 * Store analysis results in DynamoDB
 * Add authentication to the UI
 
-
----
-
-## 📝 GitHub Project Description
-
-> 🧠 A beginner-friendly project that uses **Amazon Rekognition** to detect image labels and **Amazon Comprehend** to perform sentiment analysis — all powered by Python and AWS SDK. Built as part of my AI internship preparation.
-> 
-```
